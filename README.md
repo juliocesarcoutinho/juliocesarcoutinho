@@ -2,8 +2,9 @@
 
 - 🔭 Atualmente trabalho com Front-en
 - 🌱 Atualmente estou estudando HTML, CSS, javascript, Php
-- 👯 Tenho Buscado colaborar com meus amigos e também buscar auxilio no que precsiso
-- ⚡ Estou Buscando Aprender mais e estudando bastante para isso
+- 👯 Tenho buscado colaborar com meus amigos e também buscar auxilio no que precsiso
+- ⚡ Estou buscando Aprender mais e estudando bastante para isso!
+- ↗️ Isso ai...
 
 <div align="center">
   <a href="https://github.com/juliocesarcoutinho">
