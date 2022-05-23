@@ -1,7 +1,7 @@
 ### E aí eu sou o Júlio 👋
 
-- 🔭 Atualmente trabalho com Front-en
-- 🌱 Atualmente estou estudando HTML, CSS, javascript, Php
+- 🔭 Atualmente trabalho com JavaEE, hibernate, jsf, mavem
+- 🌱 Atualmente estou estudando HTML, CSS, javascript, Java
 - 👯 Tenho buscado colaborar com meus amigos e também buscar auxilio no que precsiso
 - ⚡ Estou buscando Aprender mais e estudando bastante para isso!
 - ↗️ Isso ai...
