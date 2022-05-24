@@ -1,4 +1,4 @@
-### E aí eu sou o Júlio 👋
+### Me chamo Julio Sou Estudante de Desenvolvimento 👋
 
 - 🔭 Atualmente trabalho com JavaEE, hibernate, jsf, mavem
 - 🌱 Atualmente estou estudando HTML, CSS, javascript, Java
