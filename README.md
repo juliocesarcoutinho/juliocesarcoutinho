@@ -1,4 +1,4 @@
-### Me chamo Julio Atualmente trabalho com desenvolvimento Web JavaEE, Hibernate, Jsf, PrimeFaces, e estudadando android.. 👋
+### Me chamo Julio Atualmente trabalho com desenvolvimento Web JavaEE, Hibernate, Jsf, PrimeFaces, e estudando android.. 👋
 
 - 🔭 Atualmente trabalho com JavaEE, hibernate, jsf, mavem
 - 🌱 Atualmente estou estudando HTML, CSS, javascript, Java
