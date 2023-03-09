@@ -11,3 +11,9 @@
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=juliocesarcoutinho&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=juliocesarcoutinho&layout=compact&langs_count=7&theme=dark"/>
 </div>
+<div style="display: inline_block"><br>
+  <img align="center" alt="Luis-JAVA" height="30" width="40" src="https://logos-world.net/wp-content/uploads/2022/07/Java-Logo.png">  
+  <img align="center" alt="Luis-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
+  <img align="center" alt="Luis-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+  <img align="right"  alt="Luis-pic" height="150" style="border-radius:50px;" src="https://s2.glbimg.com/4n_sMiX4S_KibJSsuz7azcUUoPU=/1200x/smart/filters:cover():strip_icc()/i.s3.glbimg.com/v1/
+</div>
