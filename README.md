@@ -17,3 +17,10 @@
   <img align="center" alt="Luis-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="right"  alt="Luis-pic" height="150" style="border-radius:50px;" src="https://s2.glbimg.com/4n_sMiX4S_KibJSsuz7azcUUoPU=/1200x/smart/filters:cover():strip_icc()/i.s3.glbimg.com/v1/
 </div>
+                                                                                   
+<div> 
+  <a href="https://www.instagram.com/juliocesarcoutinho/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
+  <a href="https://www.linkedin.com/in/juliocesarcoutinho/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+  <a href="#" target="_blank"><img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" target="_blank"></a>
+ 
+</div>                                                                               
